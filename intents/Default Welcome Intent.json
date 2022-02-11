@@ -1,0 +1,45 @@
+{
+  "id": "5aeeaaae-9236-4bdf-9029-bc08d13ef8c3",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Olá, meu nome é Mia. \n\nSou uma robô virtual que orienta sobre pré-natal e pós-parto. \n\nLembre-se que não sou humana e tenho limitações.\n\nPodemos começar?",
+            "Oi, meu nome é Mia. \nSou uma robô virtual que orienta sobre pré-natal e pós-parto. \n\nLembre-se que não sou humana e tenho limitações.\n\nPodemos começar?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

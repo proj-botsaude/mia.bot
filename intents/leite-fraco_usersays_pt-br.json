@@ -1,0 +1,109 @@
+[
+  {
+    "id": "027986d4-f13b-4e79-af97-3c13fe42a210",
+    "data": [
+      {
+        "text": "acho ",
+        "userDefined": false
+      },
+      {
+        "text": "meu leite",
+        "userDefined": false
+      },
+      {
+        "text": " fraco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8dee0a4e-62a9-4002-b403-98c7a35f92d3",
+    "data": [
+      {
+        "text": "meu leite",
+        "userDefined": false
+      },
+      {
+        "text": " esta fraco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5dd6d90a-44b5-4c0f-af18-d82dbce2d1da",
+    "data": [
+      {
+        "text": "fraco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d3fe11af-483c-4a2f-8cdb-f885e8ba3dfd",
+    "data": [
+      {
+        "text": "leite",
+        "userDefined": false
+      },
+      {
+        "text": " fraco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "47fb2474-7230-427a-87e9-e717cfb7ecfd",
+    "data": [
+      {
+        "text": "leite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "973673c5-c19b-42c9-b12c-ee4521ed0530",
+    "data": [
+      {
+        "text": "opção a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f65f2eeb-7c52-4e89-bed1-d3e2ee324f96",
+    "data": [
+      {
+        "text": "A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

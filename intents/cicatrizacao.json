@@ -1,0 +1,40 @@
+{
+  "id": "bb3ce233-663a-4e0a-b4c4-af921ac46d9b",
+  "parentId": "7771625b-0dd3-4b75-b56b-9f09a2d0d9de",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "cicatrizacao",
+  "auto": true,
+  "contexts": [
+    "pos-parto-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom-2.pos-parto-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O processo pode demorar até 60 dias para acabar, mas geralmente passa em 40 dias. Mas atenção: o sangue não deve sair da laceração em si. Se isso ocorrer, é preciso buscar atendimento médico."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

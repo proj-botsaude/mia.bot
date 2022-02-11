@@ -1,0 +1,45 @@
+{
+  "id": "af639a08-e298-4047-b812-b5cf7d8ffaf1",
+  "parentId": "decced84-f165-409d-924f-3f884e009446",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "gestante",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup",
+    "conhecendo-usuario-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom-2",
+      "affectedContexts": [
+        {
+          "name": "gestante-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ok. Para te orientar melhor, me diga: você lembra a data da sua última menstruação? \nDigite sim ou não."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

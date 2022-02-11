@@ -1,0 +1,44 @@
+{
+  "id": "b985f709-216f-4716-afa4-c6ea18412a7a",
+  "parentId": "93463f11-aaea-49ba-b595-efc7ebc72e23",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "amamentacao",
+  "auto": true,
+  "contexts": [
+    "bebeNasceu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom-3",
+      "affectedContexts": [
+        {
+          "name": "amamentacao-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Qual tema você gostaria de falar sobre amamentação? (dica: digite um tema por vez).\nA. Leite fraco\nB. Aumento de produção\nC. Dor na mama\nD. Baixa produção"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

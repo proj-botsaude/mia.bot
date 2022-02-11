@@ -1,0 +1,44 @@
+{
+  "id": "7771625b-0dd3-4b75-b56b-9f09a2d0d9de",
+  "parentId": "93463f11-aaea-49ba-b595-efc7ebc72e23",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "pos-parto",
+  "auto": true,
+  "contexts": [
+    "bebeNasceu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom-2",
+      "affectedContexts": [
+        {
+          "name": "pos-parto-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Gostaria de saber sobre:\n\nA. Tempo de puerpério (Resguardo)\nB. Tempo de cicatrização"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

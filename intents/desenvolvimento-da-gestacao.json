@@ -1,0 +1,63 @@
+{
+  "id": "1f82e690-0f00-4637-9518-e58b8a960a5b",
+  "name": "desenvolvimento-da-gestacao",
+  "auto": true,
+  "contexts": [
+    "naoLembra-comComorbidade-followup",
+    "naoLembra-semComorbidade-followup",
+    "lembra-semComorbidade-followup",
+    "lembra-comComorbidade-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "desenvolvimento-da-gestacao-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "naoLembra-comComorbidade-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "naoLembra-semComorbidade-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "lembra-semComorbidade-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "lembra-comComorbidade-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sobre a 4ª semana de gestação: Agora seu bebê deixa de ser um montinho de células e passa a ser um embrião. A maioria das mulheres começa a sentir algo diferente. Quem está tentando engravidar já vai perceber o atraso e é uma boa hora para testes (pode ser o de farmácia). É um bom momento para começar a fazer o pré-natal. Leve seu companheiro também, pois é importante que ele faça alguns exames :) Saiba que abortos espontâneos são comuns no comecinho da gravidez. Cerca de 20% das mães perdem os bebês. \n\nQuer saber mais? \n\nDigite sim ou não.",
+            "Sobre a 10ª semana de gestação: O bebê já começa a formar seus dentes de leite mas só irão romper a gengiva alguns meses após o nascimento. Os olhos também começam a se desenvolver. Finalmente se tornou um feto, pois a calda que lembrava um girino sumiu. o seu corpo, o volume de sangue aumenta de 40% a 50%. Fazer alguns exercícios ajuda a melhorar o fluxo sanguíneo. \n\nVocê está se sentindo bem ou você tem alguma queixa? \n\na. Sentido bem \nb. Tenho queixa",
+            "Sobre a 25ª semana de gestação:\nO seu bebê já está com uma aparência mais rosada pois os vasos sanguíneos estão se desenvolvendo sob a pele.\n\nSua bexiga está mais apertadinha do que nunca e isso aumenta a chance de ter uma infecção de urina. Assim, não esqueça de beber bastante água mesmo que isto faça ir mais vezes ao banheiro.\nJá podemos dizer chamar seu bebê de “viável”, pois se ele nascer em um hospital com bons recursos, já conseguirá sobreviver. Mas o melhor a fazer é esperar e fazer que seu bebê fique o mais tempo possível dentro da sua barriga.\n\nVocê está se sentindo bem ou você tem alguma queixa?\n\na. Sentido bem\nb. Tenho queixa"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

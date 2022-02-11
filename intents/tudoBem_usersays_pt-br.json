@@ -1,0 +1,83 @@
+[
+  {
+    "id": "5e254f49-2c42-4bba-86ca-82df88d38814",
+    "data": [
+      {
+        "text": "a. Sentido ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "92e9e8b2-6882-4321-b84d-d86ac8787c9e",
+    "data": [
+      {
+        "text": "A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "42d823ba-8690-46cd-a543-2ca0e11f4ec4",
+    "data": [
+      {
+        "text": "sentindo-se ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7c2a2081-5469-4ee7-9187-f072994ee43e",
+    "data": [
+      {
+        "text": "me sentindo ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "abbb4c9b-904c-4915-8bc6-0e67877baec4",
+    "data": [
+      {
+        "text": "sentindo ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

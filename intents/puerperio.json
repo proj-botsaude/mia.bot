@@ -1,0 +1,40 @@
+{
+  "id": "dc780ba5-bdff-4ea8-9ef9-38a2680ae056",
+  "parentId": "7771625b-0dd3-4b75-b56b-9f09a2d0d9de",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "puerperio",
+  "auto": true,
+  "contexts": [
+    "pos-parto-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom-2.pos-parto-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Puerpério, também chamado de resguardo ou quarentena, é o nome dado à fase pós-parto, que começa com o nascimento do bebê e dura em média 45 dias (seis semanas)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

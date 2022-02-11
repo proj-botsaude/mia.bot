@@ -1,0 +1,44 @@
+{
+  "id": "be81371e-ce37-4859-99ff-1dc0f9fcb7cd",
+  "parentId": "e8b2762c-0787-4b47-8dcd-e8e22217b7a2",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "naoLembra-comComorbidade",
+  "auto": true,
+  "contexts": [
+    "gestante-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom-2.gestante-no.gestante-no-yes",
+      "affectedContexts": [
+        {
+          "name": "naoLembra-comComorbidade-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "De acordo com sua informação, você precisa estar bem atenta ao seu pré-natal pois talvez você precise de cuidados especiais 😊\n\n$nome, espero poder lhe ajudar e tirar todas as suas dúvidas. Vamos lá. \n\nAgora digite o tema que gostaria de saber (um tema por vez):\n\nA. Desenvolvimento da gestação 🤰\nB. Sintomas durante a gestação"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "6f523f1b-e0f6-41e9-b704-adae1eaa8f9a",
+    "data": [
+      {
+        "text": "Em ",
+        "userDefined": false
+      },
+      {
+        "text": "gestação",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a94edd39-f474-4d5c-baf1-80708cae7a55",
+    "data": [
+      {
+        "text": "B. Gestante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3eee023d-2188-4e59-864b-adecd1b3eb34",
+    "data": [
+      {
+        "text": "estou gravida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e7d2eb21-ab34-4ff4-b3cb-e7806622f0cf",
+    "data": [
+      {
+        "text": "sou gestante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e59decb2-0298-4b0d-a4c1-c2d13644b416",
+    "data": [
+      {
+        "text": "B",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

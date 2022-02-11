@@ -1,0 +1,60 @@
+{
+  "id": "a0a97387-33a2-41e3-a7de-0b168be414fa",
+  "parentId": "1f82e690-0f00-4637-9518-e58b8a960a5b",
+  "rootParentId": "1f82e690-0f00-4637-9518-e58b8a960a5b",
+  "name": "tudoBem",
+  "auto": true,
+  "contexts": [
+    "desenvolvimento-da-gestacao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "desenvolvimento-da-gestacao.desenvolvimento-da-gestacao-custom",
+      "affectedContexts": [
+        {
+          "name": "tudoBem",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dd0ae834-f1b9-4b8c-bf88-72e4efe20b55",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Que bom! Volte sempre que precisar"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

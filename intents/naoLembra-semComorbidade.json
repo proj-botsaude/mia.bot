@@ -1,0 +1,44 @@
+{
+  "id": "42e8bafa-c07e-44d6-9675-a9f732bf20be",
+  "parentId": "e8b2762c-0787-4b47-8dcd-e8e22217b7a2",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "naoLembra-semComorbidade",
+  "auto": true,
+  "contexts": [
+    "gestante-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom-2.gestante-no.gestante-no-no",
+      "affectedContexts": [
+        {
+          "name": "naoLembra-semComorbidade-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "$nome, espero poder lhe ajudar e tirar todas as suas dúvidas. Vamos lá. \n\nAgora digite o tema que gostaria de saber (um tema por vez):\n\nA. Desenvolvimento da gestação 🤰\nB. Sintomas durante a gestação"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

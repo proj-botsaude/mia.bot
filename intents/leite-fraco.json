@@ -1,0 +1,40 @@
+{
+  "id": "09e2031d-c7b2-4bda-bf1a-857733415d68",
+  "parentId": "b985f709-216f-4716-afa4-c6ea18412a7a",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "leite-fraco",
+  "auto": true,
+  "contexts": [
+    "amamentacao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom-3.amamentacao-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Que bom! Saiba que seu corpo é muito inteligente e sabe quando produzir leite.\n\nÀs vezes, ele só precisa entrar no ritmo. Quanto mais você amamentar, mais leite você vai\nproduzir.\n\nQuanto à mamadeira, se precisar usar, espere um pouquinho até que seu bebê esteja acostumado a mamar no seu peito para não acontecer confusão de bico.\n\nSabia que o extrator de leite pode te ajudar aumentar a produção de leite. \n\nA Avent está com uma promoção de 25% até final de Fevereiro em seu produto."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

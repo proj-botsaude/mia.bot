@@ -1,0 +1,44 @@
+{
+  "id": "fc7407f5-e1ba-4adb-ac91-a13f1e39da80",
+  "parentId": "da12c1f3-9cad-4a23-8251-580a963155ee",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "lembra-semComorbidade",
+  "auto": true,
+  "contexts": [
+    "gestante-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom-2.gestante-yes.gestante-yes-no",
+      "affectedContexts": [
+        {
+          "name": "lembra-semComorbidade-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Legal, de acordo com o protocolo você é uma gestante de baixo risco.\n\n$nome, espero poder lhe ajudar e tirar todas as suas dúvidas. Vamos lá. \n\nAgora digite o tema que gostaria de saber (um tema por vez):\n\nA. Desenvolvimento da gestação 🤰\nB. Sintomas durante a gestação"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

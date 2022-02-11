@@ -1,0 +1,40 @@
+{
+  "id": "dde4a4c6-02be-4372-bd8e-04b14d7ab0af",
+  "parentId": "b985f709-216f-4716-afa4-c6ea18412a7a",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "baixa-producao",
+  "auto": true,
+  "contexts": [
+    "amamentacao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom-3.amamentacao-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A translactação é um método que serve para estimular a produção de leite materno.\n\nEsta técnica pode ser útil para mães que estão com baixa produção de leite e também para\nas que querem voltar a amamentar seus filhos.\n\nO tempo para aumentar a produção do leite pode variar bastante, mas não se preocupe caso\ndemore mais que o esperado. Se o bebê mama algumas vezes por dia, a produção pode\naumentar rapidamente."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

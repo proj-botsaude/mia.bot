@@ -1,0 +1,39 @@
+{
+  "id": "62d29251-816e-4df6-b135-6a58a3d3b143",
+  "parentId": "1f82e690-0f00-4637-9518-e58b8a960a5b",
+  "rootParentId": "1f82e690-0f00-4637-9518-e58b8a960a5b",
+  "name": "temDuvidas",
+  "auto": true,
+  "contexts": [
+    "desenvolvimento-da-gestacao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "desenvolvimento-da-gestacao.desenvolvimento-da-gestacao-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O aborto espontâneo, na maioria das vezes, ocorre por conta da má formação do feto e não por questões dos pais.\nAssim, algumas mulheres preferem esperar um pouco para contar sobre a gravidez pois 80% dos abortos espontâneos acontecem até 14 semanas.\nSe isto ocorrer com você converse com pessoas próximas pois sempre mexe com nossas emoções.\n\nVocê está se sentindo bem ou você tem alguma queixa?\n\na. Sentido bem\nb. Tenho queixa"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

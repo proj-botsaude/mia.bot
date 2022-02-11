@@ -1,0 +1,41 @@
+{
+  "id": "e5924ea5-eaa9-4c27-b65d-8fed7603ae9c",
+  "parentId": "f33a47f5-7143-43f1-9fc4-3a02864c82ec",
+  "rootParentId": "1f82e690-0f00-4637-9518-e58b8a960a5b",
+  "name": "semEnjoo",
+  "auto": true,
+  "contexts": [
+    "tenhoQueixa-custom-followup",
+    "menu",
+    "sair"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "desenvolvimento-da-gestacao.desenvolvimento-da-gestacao-custom.tenhoQueixa-custom.tenhoQueixa-custom-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Tudo bem! Se quiser falar de outros assuntos digite: menu\nCaso não queira falar digite: sair"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

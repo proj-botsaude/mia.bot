@@ -1,0 +1,66 @@
+{
+  "id": "decced84-f165-409d-924f-3f884e009446",
+  "name": "conhecendo-usuario",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "conhecendo-usuario-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "15f0d08f-686d-437d-8858-f6c7d1b93e0c",
+          "name": "nome",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$nome",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Agora, vou fazer algumas perguntinhas para poder te orientar melhor. \nQual o seu nome?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Fico feliz em lhe ajudar, $nome. 😊\n\nVocê quer falar sobre ser:\n\nA. Ser Mãe (bebê já nasceu)  🤱\n \nB. Gestante 🤰"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

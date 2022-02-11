@@ -1,0 +1,40 @@
+{
+  "id": "523e4d82-aa9e-41cd-9aed-27f726cfa0f7",
+  "parentId": "b985f709-216f-4716-afa4-c6ea18412a7a",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "aumento-da-producao",
+  "auto": true,
+  "contexts": [
+    "amamentacao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom-3.amamentacao-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Saiba que seu corpo é muito inteligente e sabe quando produzir leite.\n\nÀs vezes, ele só precisa entrar no ritmo.\n\nTirar o leite entre as mamadas pode ajudar na produção de leite. E o extrator facilita bastante."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

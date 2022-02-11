@@ -1,0 +1,78 @@
+{
+  "id": "da12c1f3-9cad-4a23-8251-580a963155ee",
+  "parentId": "af639a08-e298-4047-b812-b5cf7d8ffaf1",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "ultimaMenstruacao-sim",
+  "auto": true,
+  "contexts": [
+    "gestante-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom-2.gestante-yes",
+      "affectedContexts": [
+        {
+          "name": "gestante-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "47064057-b21f-4b02-94d6-dec10529a58b",
+          "name": "data-menstruacao",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$dataMenstruacao",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Legal, e quando foi sua última menstruação? Digite no formato dd/mm/aaaa.\nVou dar apenas um EXEMPLO para facilitar: 03/04/2021. \nSão dois números no dia, dois números no mês e quatro números no ano."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b6db6049-9839-4780-882c-c5514e28915d",
+          "name": "nome",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$nome",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "$nome, e agora me diga. Você possui PELO MENOS UMA das características listadas abaixo? \n\nDigite sim ou não ou digite uma das opções a baixo:\n\nDiabetes\n• Doenças do coração\n• Anemia severa (hemoglobina abaixo 8,6 mmHg)\n• Pressão alta\n• Gestação atual de gêmeos\n• 2 ou mais abortos anteriores\n• Má formação em gestação anterior\n• Hipotiroidismo\n• Mais de 40 anos\n• Parto Prematuro anterior\n• Pré-eclâmpsia em gestação anterior"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

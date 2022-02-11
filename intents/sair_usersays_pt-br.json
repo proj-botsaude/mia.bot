@@ -1,0 +1,49 @@
+[
+  {
+    "id": "f2215c78-d9ed-4ab9-89d8-5379c5c634c8",
+    "data": [
+      {
+        "text": "sair, ",
+        "userDefined": false
+      },
+      {
+        "text": "por",
+        "userDefined": false
+      },
+      {
+        "text": " favor.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ab4cf0a3-dac2-47fd-b6c3-feecca0c4c72",
+    "data": [
+      {
+        "text": "quero sair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bd4e6b1b-07d2-435a-b484-da0ef870d11f",
+    "data": [
+      {
+        "text": "sair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "46e9262a-97ee-4096-bb38-1979ca7d549c",
+    "data": [
+      {
+        "text": "opção 3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "26eeae9a-907e-4ea1-a779-697d8ed3b3ba",
+    "data": [
+      {
+        "text": "bebê",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d5fa1fb0-66a0-4ee8-a835-ccc354a4bf2b",
+    "data": [
+      {
+        "text": "bebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

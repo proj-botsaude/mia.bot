@@ -1,0 +1,53 @@
+{
+  "id": "e8b2762c-0787-4b47-8dcd-e8e22217b7a2",
+  "parentId": "af639a08-e298-4047-b812-b5cf7d8ffaf1",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "ultimaMenstruacao-nao",
+  "auto": true,
+  "contexts": [
+    "gestante-followup",
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom-2.gestante-no",
+      "affectedContexts": [
+        {
+          "name": "gestante-no-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "ultimaMenstruacao-nao",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "OK. Só não esqueça de fazer seu pré-natal direitinho.\n\n$nome, e agora me diga. Você possui PELO MENOS UMA das características listadas abaixo? \n\nDigite sim ou não ou digite uma das opções a baixo:\n\nDiabetes\n• Doenças do coração\n• Anemia severa (hemoglobina abaixo 8,6 mmHg)\n• Pressão alta\n• Gestação atual de gêmeos\n• 2 ou mais abortos anteriores\n• Má formação em gestação anterior\n• Hipotiroidismo\n• Mais de 40 anos\n• Parto Prematuro anterior\n• Pré-eclâmpsia em gestação anterior"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

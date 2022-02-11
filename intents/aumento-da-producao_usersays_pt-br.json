@@ -1,0 +1,75 @@
+[
+  {
+    "id": "42651fd2-62c8-465c-a408-a2857dd71037",
+    "data": [
+      {
+        "text": "quantidade incomum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f088fd37-d794-4549-ab31-35e2bdef564e",
+    "data": [
+      {
+        "text": "mais ",
+        "userDefined": false
+      },
+      {
+        "text": "leite",
+        "userDefined": false
+      },
+      {
+        "text": " que o normal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2db28c7a-d336-4d99-8070-67d569b63c04",
+    "data": [
+      {
+        "text": "B. Aumento de produção",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9cc910c9-1075-40e9-93f7-dfae783b9372",
+    "data": [
+      {
+        "text": "B",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "778ad97a-79ad-4339-ae82-57b268973883",
+    "data": [
+      {
+        "text": "Aumento de produção",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

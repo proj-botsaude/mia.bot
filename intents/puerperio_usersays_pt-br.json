@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c99a21e2-1106-477a-86fc-948985ee6acb",
+    "data": [
+      {
+        "text": "A. Tempo de puerpério",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fd1f24d6-2315-4a8c-99e1-a84ab73a2655",
+    "data": [
+      {
+        "text": "resguardo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1480fa87-f51d-448f-8631-66326d79a423",
+    "data": [
+      {
+        "text": "A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b2637231-2fcc-4929-8ed6-a4aebf262959",
+    "data": [
+      {
+        "text": "tempo de  resguardo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46c6a297-bc8d-49f7-b540-27879a9af8bb",
+    "data": [
+      {
+        "text": "Puerpério",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

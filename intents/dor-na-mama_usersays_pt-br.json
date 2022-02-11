@@ -1,0 +1,49 @@
+[
+  {
+    "id": "6b0304ff-c2f3-4283-b5f2-9b0f7fbd5ef3",
+    "data": [
+      {
+        "text": "dor na ",
+        "userDefined": false
+      },
+      {
+        "text": "mama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ad2d9e59-0cd6-41fa-b644-a1142a41be0f",
+    "data": [
+      {
+        "text": "C. Dor na ",
+        "userDefined": false
+      },
+      {
+        "text": "mama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6535402d-8426-4072-afed-8e30d526c8e7",
+    "data": [
+      {
+        "text": "C",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

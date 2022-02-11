@@ -1,0 +1,44 @@
+{
+  "id": "f9745004-d99f-4e38-b39b-787430139349",
+  "parentId": "93463f11-aaea-49ba-b595-efc7ebc72e23",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "bebe",
+  "auto": true,
+  "contexts": [
+    "bebeNasceu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom",
+      "affectedContexts": [
+        {
+          "name": "bebe-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Gostaria de saber sobre:\n\nA. Cuidado com assaduras\nB. Tempo de sono do bebê"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

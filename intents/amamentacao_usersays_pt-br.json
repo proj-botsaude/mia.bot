@@ -1,0 +1,58 @@
+[
+  {
+    "id": "8895118d-e0da-4b27-9020-7ea80abe8c2d",
+    "data": [
+      {
+        "text": "amamentar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "43c4d110-f251-47a1-b53f-25931b00e209",
+    "data": [
+      {
+        "text": "amamentacao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "04ead9f4-c83f-4b20-9eb3-8a7e575ee7a4",
+    "data": [
+      {
+        "text": "amamentação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f07711ce-7937-470c-9c26-82deb3507134",
+    "data": [
+      {
+        "text": "opção ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

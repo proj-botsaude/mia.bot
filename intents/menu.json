@@ -1,0 +1,43 @@
+{
+  "id": "668df6c9-ef93-469f-842e-4042d1077a29",
+  "name": "menu",
+  "auto": true,
+  "contexts": [
+    "desenvolvimento-da-gestacao-followup",
+    "sair"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "menu",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A. Desenvolvimento da gestação\nB. Sintomas durante a gestação\nC. Sair"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

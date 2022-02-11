@@ -1,0 +1,109 @@
+[
+  {
+    "id": "82ff844c-9e2d-4538-8c49-fdfd7b948525",
+    "data": [
+      {
+        "text": "A",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7a5666b3-7575-4c28-b108-abfc4062bd11",
+    "data": [
+      {
+        "text": "bebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e8913a03-adcd-4dff-977b-f5674542251f",
+    "data": [
+      {
+        "text": "já tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bebê",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3febfbe9-cabd-4b32-bd6d-06c684c1fb0b",
+    "data": [
+      {
+        "text": "bebe ja nasceu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "06e84c9d-2b5d-4527-aa99-646666e454ff",
+    "data": [
+      {
+        "text": "mae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d26fd57b-80f4-4c07-99cd-8414d7232e9a",
+    "data": [
+      {
+        "text": "Mãe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8c39bfa6-4228-4b30-8e56-4fd3bd6ee1d8",
+    "data": [
+      {
+        "text": "Mãe (bebê",
+        "userDefined": false
+      },
+      {
+        "text": " já nasceu)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "id": "947e92b5-643c-4f00-a434-364fc2d703da",
+  "parentId": "b985f709-216f-4716-afa4-c6ea18412a7a",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "dor-na-mama",
+  "auto": true,
+  "contexts": [
+    "amamentacao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom-3.amamentacao-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O desconforto costuma ser causado porque a boca da criança está mal encaixada no peito da mãe. \n\nAo sentir dor tire o bebê com cuidado e o coloque de novo para mamar."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

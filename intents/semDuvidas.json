@@ -1,0 +1,41 @@
+{
+  "id": "57a35a1e-7540-4dfc-ad22-c9d7ac0e4fea",
+  "parentId": "1f82e690-0f00-4637-9518-e58b8a960a5b",
+  "rootParentId": "1f82e690-0f00-4637-9518-e58b8a960a5b",
+  "name": "semDuvidas",
+  "auto": true,
+  "contexts": [
+    "desenvolvimento-da-gestacao-followup",
+    "sair",
+    "menu"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "desenvolvimento-da-gestacao.desenvolvimento-da-gestacao-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ok. Se quiser falar de outro tema digite menu ou sair."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

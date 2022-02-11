@@ -1,0 +1,58 @@
+[
+  {
+    "id": "9d8e00e2-c7d8-4c50-9ca4-1fe70c34513f",
+    "data": [
+      {
+        "text": "Sintomas durante a gestação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f04941f5-548e-457c-8804-6883126d56d9",
+    "data": [
+      {
+        "text": "Sintomas na gestação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "34e9ed95-a6e5-41b5-83fc-1b4962a0aa20",
+    "data": [
+      {
+        "text": "B. Sintomas durante a ",
+        "userDefined": false
+      },
+      {
+        "text": "gestação",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "80152716-4be9-4558-a9dd-216adc8e38b5",
+    "data": [
+      {
+        "text": "b",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

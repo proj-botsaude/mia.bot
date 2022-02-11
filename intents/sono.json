@@ -1,0 +1,40 @@
+{
+  "id": "e1bee6bb-7ce1-423f-b122-82a31bb02231",
+  "parentId": "f9745004-d99f-4e38-b39b-787430139349",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "sono",
+  "auto": true,
+  "contexts": [
+    "bebe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom.bebe-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Os recém-nascidos dormem entre 17 e 18 horas por dia nas primeiras semanas de vida e 15 horas por volta do 3º mês. Aos 3 ou 4 meses, a maioria dos bebês dorme 15 horas por dia: cerca de 10 delas à noite e as outras divididas em sonecas diurnas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

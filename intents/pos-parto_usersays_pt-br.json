@@ -1,0 +1,80 @@
+[
+  {
+    "id": "18228774-e721-4b25-9cbd-2423c0dd37e9",
+    "data": [
+      {
+        "text": "opção 1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2b25d5ff-7db5-431d-8288-d0c1343fa88a",
+    "data": [
+      {
+        "text": "depois do parto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4761ce62-cfe9-4b0c-881f-b33abc8c4c69",
+    "data": [
+      {
+        "text": "pós-parto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "af4b3667-8c9c-4903-9325-da33fb41b9bc",
+    "data": [
+      {
+        "text": "Pós parto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e2829608-e01c-4d5b-a32c-dad9e79bafd4",
+    "data": [
+      {
+        "text": "por parto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78cfa7e3-c772-43cb-8ac8-b138e99deb49",
+    "data": [
+      {
+        "text": "pos-parto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

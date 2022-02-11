@@ -1,0 +1,40 @@
+{
+  "id": "542d6d5c-6293-4423-948f-40cc6c99c79b",
+  "parentId": "f9745004-d99f-4e38-b39b-787430139349",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "assaduras",
+  "auto": true,
+  "contexts": [
+    "bebe-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom.bebeNasceu-custom.bebe-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A melhor forma de prevenir as assaduras é trocando a fralda com frequência – o ideal é que ela seja substituída de 7 a 8 vezes por dia para manter a pele seca; A cada troca, atenção à higiene: limpe bem a área com algodão e uma água de limpeza sem enxágue especialmente formulada para a pele do bebê."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

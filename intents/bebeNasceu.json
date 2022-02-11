@@ -1,0 +1,65 @@
+{
+  "id": "93463f11-aaea-49ba-b595-efc7ebc72e23",
+  "parentId": "decced84-f165-409d-924f-3f884e009446",
+  "rootParentId": "decced84-f165-409d-924f-3f884e009446",
+  "name": "bebeNasceu",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup",
+    "conhecendo-usuario-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "conhecendo-usuario.conhecendo-usuario-custom",
+      "affectedContexts": [
+        {
+          "name": "bebeNasceu-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5bec509f-d9bc-4d46-b05e-68197c4ea5b4",
+          "name": "nascimento",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$nascimento",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Quando seu bebê nasceu? Se possível digitar no formato dd/mm/aaaa. Vou dar apenas um\nEXEMPLO para facilitar: 03/04/2021.São dois números no dia, dois números no mês e quatro\nnúmeros no ano."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Obrigada, sua informação me ajudará a te orientar melhor.\n\nEspero poder lhe ajudar e tirar todas as suas dúvidas.\n\nDigite o tema que gostaria de falar. Um de cada vez, por favor 🙂\n• *Pós-Parto*\n• *Amamentação*\n• *Bebê*\n• *Sair*"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

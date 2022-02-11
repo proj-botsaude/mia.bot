@@ -1,0 +1,75 @@
+[
+  {
+    "id": "f8dd561e-d198-4bb5-bc5c-971a0cc6fc87",
+    "data": [
+      {
+        "text": "B",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "84a2bc05-9e1f-4d6e-b421-60f5449a58a3",
+    "data": [
+      {
+        "text": "lebra b",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f94d4ab9-249d-45d0-89c7-729726052140",
+    "data": [
+      {
+        "text": "sono do bebe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5ea0d306-62af-4ad0-8b74-6e51795235c6",
+    "data": [
+      {
+        "text": "Tempo de sono do ",
+        "userDefined": false
+      },
+      {
+        "text": "bebê",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1bc14f3c-1987-412a-afd5-e5a669407e39",
+    "data": [
+      {
+        "text": "B. Tempo de sono do ",
+        "userDefined": false
+      },
+      {
+        "text": "bebê",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

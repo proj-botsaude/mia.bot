@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1500dbfb-32f9-42f7-9865-dfdf11115ddc",
+    "data": [
+      {
+        "text": "náusea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "700cc1f1-88ad-46ca-9664-85c389a05cf7",
+    "data": [
+      {
+        "text": "dor de cabeca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5a38b675-4e5b-45b4-af54-7cec34af2625",
+    "data": [
+      {
+        "text": "dor na cabeça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3991a11e-c135-4538-bc80-a881c21cd8b8",
+    "data": [
+      {
+        "text": "dor de cabeça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

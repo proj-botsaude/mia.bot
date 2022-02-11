@@ -1,0 +1,59 @@
+{
+  "id": "53179028-40d6-4f16-a926-f2755262f366",
+  "name": "sintomaGestacao",
+  "auto": true,
+  "contexts": [
+    "naoLembra-comComorbidade-followup",
+    "lembra-semComorbidade-followup",
+    "lembra-comComorbidade-followup",
+    "naoLembra-semComorbidade-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "naoLembra-comComorbidade-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "lembra-semComorbidade-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "lembra-comComorbidade-followup",
+          "lifespan": 5
+        },
+        {
+          "name": "naoLembra-semComorbidade-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "As dores de cabeça podem ser bem comuns durante a gravidez devido às mudanças no\ncorpo.\nDicas para aliviar os sintomas ✨:\n● Beba bastante água;\n● Não fique mais de 3 horas sem comer;\n● Faça períodos de repouso durante o dia;\n● Converse sobre seus medos e ansiedades;\n● Não tome remédio sem falar com o profissional de saúde.",
+            "É muito comum sentir náusea no primeiro trimestre.\nGeralmente esta sensação é mais intensa pela manhã, ao acordar ou após um longo período sem comer.\nAlguns cheiros podem fazer os enjoos piorarem como o cheiro de cigarro ou o gosto da pasta de dente. Mas varia bastante para cada mulher.\nQuer saber dicas de como amenizar os enjoos? Sim ou nao"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

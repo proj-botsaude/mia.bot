@@ -1,0 +1,54 @@
+[
+  {
+    "id": "96dfd69b-2d29-49b4-bfbd-18985283af0c",
+    "data": [
+      {
+        "text": "queixas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5c00525c-c568-49e9-8a52-fc51c5cf8175",
+    "data": [
+      {
+        "text": "Tenho queixa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78b26ba9-0d53-455e-a1d0-88972dec0e67",
+    "data": [
+      {
+        "text": "b. Tenho queixa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ba82fa9c-17f6-4ff4-af5d-52605c25cddd",
+    "data": [
+      {
+        "text": "B",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1c7e632a-f772-4fea-866f-3c4f3bf3e5c9",
+    "data": [
+      {
+        "text": "produzo pouco ",
+        "userDefined": false
+      },
+      {
+        "text": "leite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c1795abd-5728-40ad-be66-8790b39bc4bd",
+    "data": [
+      {
+        "text": "D. Baixa produção",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0eee4fc0-8d9a-47ac-ba83-d11af3564cf6",
+    "data": [
+      {
+        "text": "D",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "92de172b-9a10-42f7-92f4-92f531103c08",
+    "data": [
+      {
+        "text": "baixa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

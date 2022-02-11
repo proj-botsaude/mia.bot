@@ -1,0 +1,48 @@
+{
+  "id": "318b345d-9d0c-4f0a-a0c5-f0093ed75206",
+  "parentId": "1f82e690-0f00-4637-9518-e58b8a960a5b",
+  "rootParentId": "1f82e690-0f00-4637-9518-e58b8a960a5b",
+  "name": "tenhoQueixa",
+  "auto": true,
+  "contexts": [
+    "desenvolvimento-da-gestacao-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "desenvolvimento-da-gestacao.desenvolvimento-da-gestacao-custom",
+      "affectedContexts": [
+        {
+          "name": "tenhoQueixa",
+          "lifespan": 5
+        },
+        {
+          "name": "tenhoQueixa-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Certo. Para que eu possa te ajudar da melhor forma, digite palavras curtas ou texto breves sobre sua queixa ou sintoma.\n\nAh, e escreva uma queixa de cada vez! Alguns exemplos: dor de cabeça, náusea."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
