@@ -1,0 +1,422 @@
+Intents,Frases de treinamento,Resposta
+,,
+conhecendo-usuario,"s 
+Sim
+sim, podemos  
+Sim, podemos 
+Vamos Pronto 
+To pronta 
+Estou pronta 
+Continuar 
+Ok 
+Tudo bem   ","Fico feliz em lhe ajudar, $nome. ?
+
+Você quer falar sobre ser:
+
+A. Ser Mãe (bebê já nasceu)  ?
+ 
+B. Gestante ?"
+bebeNasceu,"A
+Bebe
+já tenho um bebê
+bebe ja nasceu
+Mae
+Mãe
+Mãe (bebê já nasceu)","Obrigada, sua informação me ajudará a te orientar melhor.
+
+Espero poder lhe ajudar e tirar todas as suas dúvidas.
+
+Digite o tema que gostaria de falar. Um de cada vez, por favor ?
+• *Pós-Parto*
+• *Amamentação*
+• *Bebê*
+• *Sair*"
+Pos-parto,"Opção 1
+depois do parto
+Pós-parto
+Pós parto
+Pos-parto
+por parto","Gostaria de saber sobre:
+
+A. Tempo de puerpério (Resguardo)
+B. Tempo de cicatrização"
+cicatrizacao,"quanto tempo leve a cicatrização
+Cicatrização
+B
+Tempo de cicatrização
+B. Tempo de cicatrização","O processo pode demorar até 60 dias para acabar, mas geralmente passa em 40 dias. 
+Mas atenção: o sangue não deve sair da laceração em si. 
+Se isso ocorrer, é preciso buscar atendimento médico."
+puerperio,"A. Tempo de puerpério
+Resguardo
+tempo de  resguardo
+A
+Puerpério","O Puerpério, também chamado de resguardo ou quarentena, é o nome dado à fase pós-parto, 
+Que começa com o nascimento do bebê e dura em média 45 dias (seis semanas)."
+amamentacao,"amamentar
+Amamentacao
+Amamentação
+Opção 2
+","Qual tema você gostaria de falar sobre amamentação? (dica: digite um tema por vez).
+A. Leite fraco
+B. Aumento de produção
+C. Dor na mama
+D. Baixa produção"
+leite-fraco,"acho meu leite fraco
+meu leite esta fraco
+Fraco
+leite fraco
+Leite
+opção a
+A","Que bom! Saiba que seu corpo é muito inteligente e sabe quando produzir leite.
+
+Às vezes, ele só precisa entrar no ritmo. Quanto mais você amamentar, mais leite você vai
+produzir.
+
+Quanto à mamadeira, se precisar usar, espere um pouquinho até que seu bebê esteja 
+Acostumado a mamar no seu peito para não acontecer confusão de bico.
+
+Sabia que o extrator de leite pode te ajudar aumentar a produção de leite. 
+
+A Avent está com uma promoção de 25% até final de Fevereiro em seu produto."
+aumento-da-producao,"quantidade incomum
+mais leite que o normal
+B. Aumento de produção
+Aumento de produção
+B","Saiba que seu corpo é muito inteligente e sabe quando produzir leite.
+
+Às vezes, ele só precisa entrar no ritmo.
+
+Tirar o leite entre as mamadas pode ajudar na produção de leite. E o extrator facilita bastante."
+dor-na-mama,"dor na mama
+C. Dor na mama
+C","O desconforto costuma ser causado porque a boca da criança está mal encaixada no peito da mãe. 
+
+Ao sentir dor tire o bebê com cuidado e o coloque de novo para mamar."
+baixa-producao,"produzo pouco leite
+D. Baixa produção
+D
+Baixa","A translactação é um método que serve para estimular a produção de leite materno.
+
+Esta técnica pode ser útil para mães que estão com baixa produção de leite e também para
+as que querem voltar a amamentar seus filhos.
+
+O tempo para aumentar a produção do leite pode variar bastante, mas não se preocupe caso
+demore mais que o esperado. Se o bebê mama algumas vezes por dia, a produção pode
+aumentar rapidamente."
+bebe,"opção 3 
+Bebê
+Bebe","Gostaria de saber sobre:
+
+A. Cuidado com assaduras
+B. Tempo de sono do bebê"
+assaduras,"assaduras do bebe
+Assaduras
+A
+A. Cuidado com assaduras","A melhor forma de prevenir as assaduras é trocando a fralda com frequência. 
+O ideal é que ela seja substituída de 7 a 8 vezes por dia para manter a pele seca; 
+A cada troca, atenção à higiene: limpe bem a área com algodão e uma água de limpeza sem 
+Enxágue especialmente formulada para a pele do bebê."
+sono,"B
+lebra b
+sono do bebe
+Tempo de sono do bebê
+B. Tempo de sono do bebê","Os recém-nascidos dormem entre 17 e 18 horas por dia nas primeiras semanas de vida e 15 horas por volta do 3º mês. 
+Aos 3 ou 4 meses, a maioria dos bebês dorme 15 horas por dia: cerca de 10 delas à noite e as outras divididas em sonecas diurnas."
+gestante,"Em gestação
+B. Gestante
+estou gravida
+sou gestante
+B","Ok. Para te orientar melhor, me diga: você lembra a data da sua última menstruação?
+ Digite sim ou não."
+ultimaMenstruacao-sim,"s 
+Sim
+sim, podemos  
+Sim, podemos 
+Vamos Pronto 
+To pronta 
+Estou pronta 
+Continuar 
+Ok 
+Tudo bem   ","$nome, e agora me diga. Você possui PELO MENOS UMA das características listadas abaixo? 
+
+Digite sim ou não ou digite uma das opções a baixo:
+
+Diabetes
+• Doenças do coração
+• Anemia severa (hemoglobina abaixo 8,6 mmHg)
+• Pressão alta
+• Gestação atual de gêmeos
+• 2 ou mais abortos anteriores
+• Má formação em gestação anterior
+• Hipotiroidismo
+• Mais de 40 anos
+• Parto Prematuro anterior
+• Pré-eclâmpsia em gestação anterior"
+Lembra-comComorbidade,"Pré-eclâmpsia em gestação anterior
+Parto Prematuro anterior
+Mais de 40 anos
+Hipotiroidismo
+Má formação em gestação anterior
+2 ou mais abortos anteriores
+Gestação atual de gêmeos
+Pressão alta
+Anemia severa (hemoglobina abaixo 8,6 mmHg)
+Diabetes
+Doença do coração
+
+faça isso
+Confirmar
+Sim
+S
+isso mesmo
+Concordo
+parece bom
+Claro
+Exatamente
+com certeza
+","De acordo com sua informação, você precisa estar bem atenta ao seu pré-natal pois talvez você precise de cuidados especiais ?
+
+$nome, espero poder lhe ajudar e tirar todas as suas dúvidas. Vamos lá. 
+
+Agora digite o tema que gostaria de saber (um tema por vez):
+
+A. Desenvolvimento da gestação ?
+B. Sintomas durante a gestação"
+Lembra-semComorbidade,"discordo
+definitivamente não
+não obrigado
+acho que não
+Não
+não tenho interesse
+não quero isso
+não faça isso
+Não
+N
+não mesmo","Legal, de acordo com o protocolo você é uma gestante de baixo risco.
+
+$nome, espero poder lhe ajudar e tirar todas as suas dúvidas. Vamos lá. 
+
+Agora digite o tema que gostaria de saber (um tema por vez):
+
+A. Desenvolvimento da gestação ?
+B. Sintomas durante a gestação"
+UltimaMenstruacao-nao,"discordo
+definitivamente não
+não obrigado
+acho que não
+Não
+não tenho interesse
+não quero isso
+não faça isso
+Não
+N
+não mesmo","OK. Só não esqueça de fazer seu pré-natal direitinho.
+
+$nome, e agora me diga. Você possui PELO MENOS UMA das características listadas abaixo? 
+
+Digite sim ou não ou digite uma das opções a baixo:
+
+Diabetes
+• Doenças do coração
+• Anemia severa (hemoglobina abaixo 8,6 mmHg)
+• Pressão alta
+• Gestação atual de gêmeos
+• 2 ou mais abortos anteriores
+• Má formação em gestação anterior
+• Hipotiroidismo
+• Mais de 40 anos
+• Parto Prematuro anterior
+• Pré-eclâmpsia em gestação anterior"
+NaoLembra-semComorbidade,"discordo
+definitivamente não
+não obrigado
+acho que não
+Não
+não tenho interesse
+não quero isso
+não faça isso
+Não
+N
+não mesmo","$nome, espero poder lhe ajudar e tirar todas as suas dúvidas. Vamos lá. 
+
+Agora digite o tema que gostaria de saber (um tema por vez):
+
+A. Desenvolvimento da gestação ?
+B. Sintomas durante a gestação"
+naoLembra-comComorbidade,"Pré-eclâmpsia em gestação anterior
+Parto Prematuro anterior
+Mais de 40 anos
+Hipotiroidismo
+Má formação em gestação anterior
+2 ou mais abortos anteriores
+Gestação atual de gêmeos
+Pressão alta
+Anemia severa (hemoglobina abaixo 8,6 mmHg)
+Diabetes
+Doença do coração
+
+faça isso
+Confirmar
+Sim
+S
+isso mesmo
+Concordo
+parece bom
+Claro
+Exatamente
+com certeza
+","De acordo com sua informação, você precisa estar bem atenta ao seu pré-natal pois talvez você precise de cuidados especiais ?
+
+$nome, espero poder lhe ajudar e tirar todas as suas dúvidas. Vamos lá. 
+
+Agora digite o tema que gostaria de saber (um tema por vez):
+
+A. Desenvolvimento da gestação ?
+B. Sintomas durante a gestação"
+Desenvolvimento-da-gestacao,"gestação
+Desenvolvimento
+Desenvolvimento da gestação
+?
+A
+A. Desenvolvimento da gestação","Sobre a 4ª semana de gestação: Agora seu bebê deixa de ser um montinho de células e passa a ser um embrião. 
+A maioria das mulheres começa a sentir algo diferente. 
+Quem está tentando engravidar já vai perceber o atraso e é uma boa hora para testes (pode ser o de farmácia). 
+É um bom momento para começar a fazer o pré-natal. 
+Leve seu companheiro também, pois é importante que ele faça alguns exames :) 
+Saiba que abortos espontâneos são comuns no comecinho da gravidez. Cerca de 20% das mães perdem os bebês. 
+
+Quer saber mais? 
+
+OU
+
+Sobre a 10ª semana de gestação: 
+
+O bebê já começa a formar seus dentes de leite mas só irão romper a gengiva alguns meses após o nascimento. 
+Os olhos também começam a se desenvolver. Finalmente se tornou um feto, pois a calda que lembrava um girino sumiu. 
+o seu corpo, o volume de sangue aumenta de 40% a 50%. Fazer alguns exercícios ajuda a melhorar o fluxo sanguíneo.   
+Você está se sentindo bem ou você tem alguma queixa?   a. Sentido bem  b. Tenho queixa
+
+OU
+
+Sobre a 25ª semana de gestação: 
+O seu bebê já está com uma aparência mais rosada pois os vasos sanguíneos estão se desenvolvendo sob a pele.  
+Sua bexiga está mais apertadinha do que nunca e isso aumenta a chance de ter uma infecção de urina. 
+Assim, não esqueça de beber bastante água mesmo que isto faça ir mais vezes ao banheiro. 
+Já podemos dizer chamar seu bebê de “viável”, pois se ele nascer em um hospital com bons recursos, já conseguirá sobreviver. 
+Mas o melhor a fazer é esperar e fazer que seu bebê fique o mais tempo possível dentro da sua barriga. 
+ Você está se sentindo bem ou você tem alguma queixa?  a. Sentido bem b. Tenho queixa"
+tenhoQueixa,"queixas
+Tenho queixa
+b. Tenho queixa
+B","Certo. Para que eu possa te ajudar da melhor forma, digite palavras curtas ou texto breves sobre sua queixa ou sintoma.
+
+Ah, e escreva uma queixa de cada vez! Alguns exemplos: dor de cabeça, náusea."
+qualQueixa,"náusea
+dor de cabeca
+dor na cabeça
+dor de cabeça","As dores de cabeça podem ser bem comuns durante a gravidez devido às mudanças no corpo.
+
+Dicas para aliviar os sintomas ?:
+
+? Beba bastante água;
+? Não fique mais de 3 horas sem comer;
+? Faça períodos de repouso durante o dia;
+? Converse sobre seus medos e ansiedades;
+? Não tome remédio sem falar com o profissional de saúde.
+
+OU
+
+É muito comum sentir náusea no primeiro trimestre.  
+Geralmente esta sensação é mais intensa pela manhã, ao acordar ou após um longo período sem comer.  
+Alguns cheiros podem fazer os enjoos piorarem como o cheiro de cigarro ou o gosto da pasta de dente.  
+Mas varia bastante para cada mulher.  Quer saber dicas de como amenizar os enjoos? Sim ou não"
+comEnjoo,"faça isso
+Confirmar
+Sim
+S
+isso mesmo
+Concordo
+parece bom
+Claro
+Exatamente
+com certeza","Dicas para amenizar os enjoos:
+
+• Coma várias vezes ao dia (três refeições e dois lanches por dia);
+• Coma logo que acordar;
+• Evitar ficar muito tempo sem comer (máximo 3 horas);
+• Coma devagar e mastigar bem os alimentos;
+• Dê preferência a alimentos secos (pão, torradas e bolachas);
+• Evite alimentos gordurosos e temperado;
+• Evite doces com muito açúcar;
+• Beba bastante água;
+• Não escove os dentes logo ao acordar, pode ajudar, pois pela manhã o enjoo pode ser mais intenso"
+semEnjoo,"discordo
+definitivamente não
+não obrigado
+acho que não
+Não
+não tenho interesse
+não quero isso
+não faça isso
+Não
+N
+não mesmo","Tudo bem! Se quiser falar de outros assuntos digite: menu
+Caso não queira falar digite: sair"
+semDuvidas,"discordo
+definitivamente não
+não obrigado
+acho que não
+Não
+não tenho interesse
+não quero isso
+não faça isso
+Não
+N
+não mesmo",Ok. Se quiser falar de outro tema digite menu ou sair.
+temDuvidas,"faça isso
+Confirmar
+Sim
+S
+isso mesmo
+Concordo
+parece bom
+Claro
+Exatamente
+com certeza","O aborto espontâneo, na maioria das vezes, ocorre por conta da má formação do feto e não por questões dos pais.
+Assim, algumas mulheres preferem esperar um pouco para contar sobre a gravidez pois 80% dos abortos espontâneos acontecem até 14 semanas.
+Se isto ocorrer com você converse com pessoas próximas pois sempre mexe com nossas emoções.
+
+Você está se sentindo bem ou você tem alguma queixa?
+
+a. Sentido bem
+b. Tenho queixa"
+tudoBem,"a. Sentido bem
+A
+sentindo-se bem
+me sentindo bem
+sentindo bem",Que bom! Volte sempre que precisar
+menu ,menu,"A. Desenvolvimento da gestação
+B. Sintomas durante a gestação
+C. Sair"
+sair,"sair, por favor.
+quero sair
+Sair","Obrigado por me consultar, espero ter ajudado.
+OU
+Obrigada pela confiança. Volte sempre que quiser"
+sintomaGestacao,"Sintomas durante a gestação
+Sintomas na gestação
+B. Sintomas durante a gestação
+B","É muito comum sentir náusea no primeiro trimestre. 
+Geralmente esta sensação é mais intensa pela manhã, ao acordar ou após um longo período sem comer. 
+Alguns cheiros podem fazer os enjoos piorarem como o cheiro de cigarro ou o gosto da pasta de dente. 
+Mas varia bastante para cada mulher. Quer saber dicas de como amenizar os enjoos? Sim ou não
+
+OU
+
+As dores de cabeça podem ser bem comuns durante a gravidez devido às mudanças no corpo. Dicas para aliviar os sintomas ?: 
+? Beba bastante água; 
+? Não fique mais de 3 horas sem comer; 
+? Faça períodos de repouso durante o dia;
+? Converse sobre seus medos e ansiedades; 
+? Não tome remédio sem falar com o profissional de saúde."
